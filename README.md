@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>a student who has just started a career in informatics<br>
+<br> A student who has just started a career in informatics<br>
 
 
 ## 🌐 Socials:
